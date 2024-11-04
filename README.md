@@ -19,7 +19,7 @@ https://github.com/garyptchoi/toroidal-density-equalizing-map
 ===============================================================
 
 TDEM usage:
-* `map = TDEM(v,f,population,R,r,dt,epsilon,max_iter)`
+* `[map,uv] = TDEM(v,f,population,R,r,dt,epsilon,max_iter)`
 
 Input:
 * `v`: nv x 3 vertex coordinates of a sliced toroidal surface
