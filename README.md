@@ -12,7 +12,7 @@ S. Yao and G. P. T. Choi,
 "[Toroidal Density-Equalizing Map for Genus-One Surfaces.](https://arxiv.org/abs/2410.16833)"
 Preprint, arXiv:2410.16833, 2024.
 
-Copyright (c) 2024, Shunyu Yao, Gary P. T. Choi
+Copyright (c) 2024-2025, Shunyu Yao, Gary P. T. Choi
 
 https://github.com/garyptchoi/toroidal-density-equalizing-map
 
@@ -27,9 +27,9 @@ Input:
 * `population`: nf x 1 positive quantity
 * `R`: the major radius of the torus
 * `r`: the minor radius of the torus
-* `dt`: step size (default = 0.1)
-* `epsilon`: stopping parameter (default = 1e-3)
-* `max_iter`: maximum number of iterations (default = 1000)
+* `dt`: step size
+* `epsilon`: stopping parameter
+* `max_iter`: maximum number of iterations
 
 Output:
 * `map`: nv x 3 vertex coordinates of the toroidal density-equalizing map
