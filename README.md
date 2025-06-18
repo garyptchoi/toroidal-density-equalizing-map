@@ -9,8 +9,8 @@ Any comments and suggestions are welcome.
 If you use this code in your work, please cite the following paper:
 
 S. Yao and G. P. T. Choi,
-"[Toroidal Density-Equalizing Map for Genus-One Surfaces.](https://arxiv.org/abs/2410.16833)"
-Preprint, arXiv:2410.16833, 2024.
+"[Toroidal Density-Equalizing Map for Genus-One Surfaces.](https://doi.org/10.1016/j.cam.2025.116844)"
+Journal of Computational and Applied Mathematics, 116844, 2025. 
 
 Copyright (c) 2024-2025, Shunyu Yao, Gary P. T. Choi
 
